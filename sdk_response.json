@@ -1,0 +1,515 @@
+[
+  {
+    "speaker": 0,
+    "dialogue": "Hello hello.",
+    "startTime": 32.11,
+    "endTime": 33.07
+  },
+  { "speaker": 1, "dialogue": "Hello.", "startTime": 33.07, "endTime": 33.57 },
+  {
+    "speaker": 0,
+    "dialogue": "Hi am, hi devanshu how are you?",
+    "startTime": 34.35,
+    "endTime": 36.61
+  },
+  {
+    "speaker": 1,
+    "dialogue": "I'm fine, something.How are you?",
+    "startTime": 37.39,
+    "endTime": 39.49
+  },
+  {
+    "speaker": 0,
+    "dialogue": "I am good I am good.Thank you so much for taking your time and coming for this interview and so can you tell me something about yourself a quick introduction?",
+    "startTime": 39.875,
+    "endTime": 50.854996
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Ok so starting with myself my name is Divyansh Kumar and I have recently graduated from Stati Congress coming towards my experience of previously I have done internship into different organizations 1 as a frontend developer and in second I have worked as an ID1 I basically developed that interview and other related staff.",
+    "startTime": 51.795,
+    "endTime": 77.395
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok that's great to hear so this AI internship that you did what were, what did it mainly focus on? Did it focus on integration of AI or US building an AI or what was it about?",
+    "startTime": 78.41499,
+    "endTime": 91.369995
+  },
+  {
+    "speaker": 1,
+    "dialogue": "So, initially it focus on integrating that AI part at each and every point.My initially my task was to integrate AI at every point like in that chat what that I want so suppose here also I am giving interview and depending upon the type the interview has chosen we will have 1 specific set of portion so the board will ask to send each person 1 by 1 and after that the interview will give resolve response so each question proceed by the interview response and then what suit with original answer according to Crgability.These 3 things we store and once the interview got over we give all those details in a pdf format by comparing the knowledge of a particular interview whether they are ok or they have to focus or if they have to focus then what I have",
+    "startTime": 92.47,
+    "endTime": 178.39
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Some of the points are mentioned",
+    "startTime": 178.45,
+    "endTime": 179.67
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Tell me please sorry please write or speak about some specific points to not yet a general word. So the simple comment for each question answer is present there.",
+    "startTime": 196.24,
+    "endTime": 209.38
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok.And apart yeah.Ok that's that's really interesting.So I would like to know more about what your interest is as to see we are in the computer science field, right?",
+    "startTime": 210.24,
+    "endTime": 232.20999
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So what would you say currently is your passion, not even passion, something that you want to pursue?",
+    "startTime": 232.43,
+    "endTime": 238.20999
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Ok, so currently before joining this AI part and knowing what AI can do, I was generally interested in front end with some part back end that I have worked on, but since I have joined this part means how we can do all the things that we previously did on our mind.We can do it through AI now I am passionate how we can use AI at each and every part.",
+    "startTime": 238.995,
+    "endTime": 268.44
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok.What was there in front end that intrigued you the most that you mentioned right before doing this AI front end was something that you were really interested in in.What was it, what was about frontend that intrigued you?",
+    "startTime": 269.44498,
+    "endTime": 286.36
+  },
+  {
+    "speaker": 1,
+    "dialogue": "The main part in frontend like I have mentioned I have done a 6 month internship earlier as an area development only.So The most important part that it's me for this frontend part is that we have to design all the things according to ID1 > in backend there are previous thing there are certain things we will have to make it an after the front end developer will handle all those things along with that UI expert but in front end we have to design all the things according to user and mobile designing we have to think as a user first then we should have to think as a developer first.Sorry, developer second that is the main part that's why I like that.",
+    "startTime": 287.62,
+    "endTime": 338.37
+  },
+  {
+    "speaker": 0,
+    "dialogue": "See but Divyanshu I feel like you might be confused between the front end role and the UI UX role because in any big organization that you work for, that you might work for in the future, you're gonna find that the UIUX part is being done by a completely different team altogether, and you're just giving figma designs.So would you still say that the front end is something that would still excite you?",
+    "startTime": 339.22998,
+    "endTime": 376.83
+  },
+  {
+    "speaker": 1,
+    "dialogue": "No then especially I am not interested in that because whatever I have worked you know I have made the whole thing that's why it interests to but as I know.",
+    "startTime": 377.535,
+    "endTime": 389.61502
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So you are more interested towards you are you x part than front end then?",
+    "startTime": 389.61502,
+    "endTime": 394.88998
+  },
+  {
+    "speaker": 1,
+    "dialogue": "No means like for thinking on our own creation that part.That is what I told you that when I come to this AI part then it interests the most because we have to serve how we can do all the things automatically.",
+    "startTime": 395.51,
+    "endTime": 412.97498
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok.",
+    "startTime": 413.995,
+    "endTime": 414.47498
+  },
+  {
+    "speaker": 1,
+    "dialogue": "What initially we do manually.Ok.So that creativity in that part interests me the most.",
+    "startTime": 414.47498,
+    "endTime": 422.095
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok.So, ok I want your comments on 1 simple thing.I think we just have to do this for 10 more minutes and we will have enough information then.So, what's your say or thoughts regarding AI is taking up developer's job?",
+    "startTime": 422.61,
+    "endTime": 445.785
+  },
+  {
+    "speaker": 0,
+    "dialogue": "How close are we to it or if that's even a possibility or what's your thoughts on this 1 topic?",
+    "startTime": 445.785,
+    "endTime": 455.24002
+  },
+  {
+    "speaker": 1,
+    "dialogue": "It's the reality that AI is taking up jobs and the most recent example that we can think of is that customer support service and the second 1 content writer and I think by almost the end of 20 30, I think there will be really any computer sorry customer support job or help desk job and this content writer because what things can we have a full of hundred computer desk support.We can just integrate all those things AI.So these 2 fields have been severely affected through a apart from that if we talk about development then this back end role will never happen.",
+    "startTime": 456.1,
+    "endTime": 510.08502
+  },
+  {
+    "speaker": 0,
+    "dialogue": "will be repressing.",
+    "startTime": 512.39996,
+    "endTime": 513.44
+  },
+  {
+    "speaker": 1,
+    "dialogue": "The AI.Because AI will do whatever here we will ask him to do.Yeah it will create the basic back end and basic front end.But the final touch would be given by us account thing it will take developer job but yeah the number of developer that companies are hiring will reduce up to 40 to 50 percent that's it.",
+    "startTime": 513.44,
+    "endTime": 540.0
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Yeah I feel like you are absolutely correct on this part that it might not replace the job it might expand a person's capability right? Like let's say if you're a person you are familiar with both front end and back end.So, if I give you an AI as a helper then you can just do the thinking and AI can just make it, right? Right.You are getting like, more out of you because you are not sitting and, like, have to actually have complete knowledge regarding every single topic that is there.",
+    "startTime": 541.18,
+    "endTime": 575.19
+  },
+  {
+    "speaker": 0,
+    "dialogue": "You can have a very nice high level overview about all the things and you can create applications.",
+    "startTime": 575.32996,
+    "endTime": 581.845
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah, and",
+    "startTime": 583.345,
+    "endTime": 584.08496
+  },
+  {
+    "speaker": 0,
+    "dialogue": "on top of that",
+    "startTime": 586.785,
+    "endTime": 588.245
+  },
+  {
+    "speaker": 1,
+    "dialogue": "And also like anywhere else yeah.",
+    "startTime": 589.345,
+    "endTime": 591.685
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Sorry, do you continue?",
+    "startTime": 592.305,
+    "endTime": 593.605
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah means as the AI booms then the requirement for AI engineer is also increasing.That will I think also create some new opportunities.",
+    "startTime": 594.63,
+    "endTime": 604.25
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Absolutely.Have You had the chance to use the new model that Open AI has released? It's called 4 0.Sorry, o.",
+    "startTime": 605.35004,
+    "endTime": 616.915
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah, they have 3 models currently, triple GPB 4, GPB 4 0 and 4 0 mini.",
+    "startTime": 618.175,
+    "endTime": 626.93
+  },
+  {
+    "speaker": 0,
+    "dialogue": "No no no no I will tell you.They have currently I will open and I will show you.Tell you once.Yeah yeah.So yeah, there is currently 4 0 which is great for most tasks and there is o 1 preview and there is o 1 mini.",
+    "startTime": 629.87,
+    "endTime": 645.835
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Do you know what the difference between this o 1 and 4 0 is?",
+    "startTime": 646.135,
+    "endTime": 650.97003
+  },
+  {
+    "speaker": 1,
+    "dialogue": "And I have used this 4 0 and 4 0 mini.",
+    "startTime": 652.63,
+    "endTime": 656.17004
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Like, this whole o generation of models that are going to come, do you know what's the difference between the models that were there before that?",
+    "startTime": 657.27,
+    "endTime": 670.165
+  },
+  {
+    "speaker": 1,
+    "dialogue": "That part I don't have much to read about that",
+    "startTime": 671.82495,
+    "endTime": 674.805
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So now imagine, four GPT, whenever you like, for example, if you give four GPT this thing.What do you say?",
+    "startTime": 676.46497,
+    "endTime": 705.6
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Whenever you use 4 0, the normal 1 GPT, the moment you press enter, it starts giving you the answer, right? Yes.But With these 4 generation models, what they do is they actually try to simulate thinking is that GBT is going to, you know, think about it and it's going to check itself back.Like, I'll show you 1, I'll tell you 1 second.",
+    "startTime": 706.56,
+    "endTime": 729.845
+  },
+  {
+    "speaker": 0,
+    "dialogue": "1 of the questions that I'd actually used.I 'll tell you what the I had actually used.I' ll tell you what their reasoning codes are like.So First thing, like, I gave it some code and I told it to fix something, right?",
+    "startTime": 729.845,
+    "endTime": 745.79
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So the reasoning token that was first generated was analyzing code performance.It analyzed it and then, like, whatever the way you think, right, it replicates that, and that's the main difference between the new models that are coming.So They are more accurate because before they give an answer they go back and check that okay, like if like this user has told me this okay, am I doing everything correctly the response at time? Like it rechecks itself, which helps it to give better and a lot better answers I will tell you.Yes.",
+    "startTime": 746.17,
+    "endTime": 781.745
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Have you ever used co pilot?",
+    "startTime": 784.76495,
+    "endTime": 786.46497
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah I have used co pilot but a year ago.",
+    "startTime": 788.285,
+    "endTime": 792.46497
+  },
+  {
+    "speaker": 0,
+    "dialogue": "How was your experience with co pilot? Mind was horrible.In the sense at first it was great but once your project gets to a meaningful size it just stops working.Not even though stops working it at that level you cannot do anything with AI.It cannot understand so much context, it cannot like hallucinations happen, right?",
+    "startTime": 794.12006,
+    "endTime": 819.835
+  },
+  {
+    "speaker": 0,
+    "dialogue": "When your fourth phase goes meaningfully.You know what Jet Brains does? have you ever heard of this ID called Astra?",
+    "startTime": 821.11,
+    "endTime": 832.41
+  },
+  {
+    "speaker": 1,
+    "dialogue": "No, I haven't heard of Astra.",
+    "startTime": 833.615,
+    "endTime": 835.475
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Oh, 1 second.I think Jet Brains it's not called Astra I think.They had made another new ID altogether.Flet, yeah.Have have you ever heard of Flit?",
+    "startTime": 836.575,
+    "endTime": 855.21
+  },
+  { "speaker": 1, "dialogue": "No.", "startTime": 856.87, "endTime": 857.37 },
+  {
+    "speaker": 0,
+    "dialogue": "So what Flit does? So the thing is that it's a very heavy idea, okay? It's a very heavy idea.On the face of it, it wouldn't look like so heavy.Like, if you're open intelligent, you know it's a very heavy idea because like 10000 things are built into it, right?",
+    "startTime": 858.63,
+    "endTime": 874.07
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Here and everything is there.But Flet looks like normal CS code, but it has an ability, it has the ability to basically index your whole code and store it into a cash.So Any kind of AI related tasks that you do not cause so much hallucinations index your whole code.It takes like 2 3 hours to index any project that you open but once it does, it works.",
+    "startTime": 874.37,
+    "endTime": 909.74005
+  },
+  {
+    "speaker": 1,
+    "dialogue": "very well.Ok, I'm seeing it's.",
+    "startTime": 910.0,
+    "endTime": 913.30005
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Yeah, any new technology that you came across that you might want to talk about?",
+    "startTime": 915.57495,
+    "endTime": 919.51495
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah, recently I just world upon the senior TCS.Apart from that",
+    "startTime": 920.33496,
+    "endTime": 928.91
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Next chess is good you know.It 's like I feel like everyone is using their free hosting as of now because I feel like there free tear itself is so good and",
+    "startTime": 929.68994,
+    "endTime": 941.135
+  },
+  {
+    "speaker": 1,
+    "dialogue": "a great deal of",
+    "startTime": 941.595,
+    "endTime": 942.65497
+  },
+  {
+    "speaker": 0,
+    "dialogue": "you know tell me",
+    "startTime": 943.115,
+    "endTime": 944.415
+  },
+  {
+    "speaker": 1,
+    "dialogue": "tell.Yeah means the most interesting part in it is just that we can do all the stuff at a single place.",
+    "startTime": 945.195,
+    "endTime": 952.575
+  },
+  {
+    "speaker": 0,
+    "dialogue": "All the stuff at a single place.",
+    "startTime": 954.38,
+    "endTime": 956.24005
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Means back end and front end.",
+    "startTime": 956.54004,
+    "endTime": 959.18005
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Oh yeah yeah.",
+    "startTime": 959.18005,
+    "endTime": 960.22003
+  },
+  {
+    "speaker": 1,
+    "dialogue": "All other handling, cache all these things you can store in a single file.",
+    "startTime": 960.22003,
+    "endTime": 966.80005
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Yeah.",
+    "startTime": 967.275,
+    "endTime": 967.775
+  },
+  {
+    "speaker": 1,
+    "dialogue": "And that things if you are not developing a very vast application.Up to middle level of application I think it works really well.",
+    "startTime": 971.03503,
+    "endTime": 981.05505
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Yeah and the ability to do server side rendering so easily and where to render anything it's so easy, right?",
+    "startTime": 981.75,
+    "endTime": 989.85004
+  },
+  { "speaker": 1, "dialogue": "Yeah.", "startTime": 990.15, "endTime": 990.63 },
+  {
+    "speaker": 0,
+    "dialogue": "But it's like very optimized also though right but you have to be very familiar with next Jas.Like, even if you, for example, use are using an image let's assume, ok?",
+    "startTime": 990.63,
+    "endTime": 1013.39
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Like, you need to know next Jazz to get everything out of it.It 's a really really nice to, you know.Have you ever used Olama?",
+    "startTime": 1013.53,
+    "endTime": 1023.39
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Olamama, no.Ma 'am,",
+    "startTime": 1025.265,
+    "endTime": 1027.125
+  },
+  {
+    "speaker": 0,
+    "dialogue": "I use it, you know, you can have, you can just download it, download it.So it's an LLM.I hope you know that.",
+    "startTime": 1027.425,
+    "endTime": 1034.0851
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah.It 's",
+    "startTime": 1034.625,
+    "endTime": 1035.1051
+  },
+  {
+    "speaker": 0,
+    "dialogue": "by meta and you can just download and run LLM in your terminal, you know and it's like 2 click install.It 's very nice.You know, I'll tell you 1 project which my friend made, ok.So, friend and me both we made, ok?",
+    "startTime": 1035.1051,
+    "endTime": 1055.875
+  },
+  {
+    "speaker": 0,
+    "dialogue": "He had an STS exam, okay? In that STS exam what was that like this dude is a mat coder, ok.Like he lives and breathes making programs and everything.So, he got into this thing.He he had a bet with his STS teacher that it's basically competitive coding that like I am going to get full.",
+    "startTime": 1056.095,
+    "endTime": 1080.935
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Ok? And he made a bet he came back and he is like I don't want to study for it. I don't want to study for this random exam I can work on something better.So, you know what he did?",
+    "startTime": 1080.935,
+    "endTime": 1099.77
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So basically, he had found a bug in replace with which he can host things for however long he want.However long he wants to.Replate I think you must have used, right? It's an online ID.",
+    "startTime": 1100.15,
+    "endTime": 1113.395
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Yeah yeah, that's great.",
+    "startTime": 1114.015,
+    "endTime": 1115.0549
+  },
+  {
+    "speaker": 0,
+    "dialogue": "So he took Lama and he hosted it over there.Ok?Then he wrote 1 portable python program, okay? With which what it, what it does is that it takes input from your mouse and your keyboard.Ok?",
+    "startTime": 1115.0549,
+    "endTime": 1130.91
+  },
+  {
+    "speaker": 0,
+    "dialogue": "And whenever you will press 4 slashes and type out something and then you end up with that 4 slashes, that's basically that goes as a request to the LLM that is there and once the response comes, the program takes over your keyboard and it starts writing out code for you.Ok.And with mouse if you and now the thing is that it's typing, right?",
+    "startTime": 1131.05,
+    "endTime": 1165.8049
+  },
+  {
+    "speaker": 0,
+    "dialogue": "He had configured it in a way that on the top left of the screen if the mouse goes, the typing will stop.Top right was resumed, bottom left was cancelled and the bottom right he had just left.So like",
+    "startTime": 1165.945,
+    "endTime": 1184.32
+  },
+  {
+    "speaker": 1,
+    "dialogue": "the water point.",
+    "startTime": 1184.3999,
+    "endTime": 1185.14
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Math program and he finished his exam in like 10 to 15 minutes and he left and he got full also and you know so many people in for that exam are like 1 script, ok, with which you can run in your JavaScript console.With which",
+    "startTime": 1185.76,
+    "endTime": 1206.04
+  },
+  {
+    "speaker": 1,
+    "dialogue": "You can",
+    "startTime": 1206.04,
+    "endTime": 1206.4
+  },
+  {
+    "speaker": 0,
+    "dialogue": "do chatGPTs this thing basically.It 's an API end point with which you can make the call, you will get the response and you can just copy the response from there, ok? I think 15 people tried that all of them got caught.But this was not.You know why hello.",
+    "startTime": 1206.4,
+    "endTime": 1227.9551
+  },
+  {
+    "speaker": 0,
+    "dialogue": "A request, whereas these people were making it through the, you know, the user request was monitored.Ok.So he was not caught also, so match it.So listen I think 20 minutes sir thank you so much for taking your time Devanshu and it was very nice talking to you.",
+    "startTime": 1234.01,
+    "endTime": 1255.365
+  },
+  {
+    "speaker": 1,
+    "dialogue": "Ok thanks.Bye bye.",
+    "startTime": 1255.665,
+    "endTime": 1257.025
+  },
+  {
+    "speaker": 0,
+    "dialogue": "Thank you so much.",
+    "startTime": 1257.025,
+    "endTime": 1258.005
+  }
+]

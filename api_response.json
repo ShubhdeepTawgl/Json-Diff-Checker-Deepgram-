@@ -1,0 +1,443 @@
+[
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Hello",
+        "startTime": 0.0,
+        "endTime": 26.14,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Hello. Hello.",
+        "startTime": 31.64,
+        "endTime": 33.5,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Hi Hi Devanshu. How are you?",
+        "startTime": 34.84,
+        "endTime": 36.54,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "I'm fine, how are",
+        "startTime": 37.4,
+        "endTime": 39.315002,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "आपको? I am good I am good. Thank you so much for taking your time and coming for this interview and so can you tell me something about yourself? A big introduction?",
+        "startTime": 39.615,
+        "endTime": 50.755,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Starting with myself. My name is Dhyansukhma and I have recently graduated from IIT college coming towards my experience of earlier. I have done internships into different organizations. 1 as a front end developer and in the second I have worked as an AI intern. So I basically developed that interview for 10 other related staff.",
+        "startTime": 53.02,
+        "endTime": 77.405,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Ok that's great to hear so this AI internship that you did what were it mainly focused on? Did it focus on integration of AI or you guys building an AI or what was it about?",
+        "startTime": 78.345,
+        "endTime": 91.31,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "So, initially it focuses on integrating that AI part at each and every point. My initial task was to integrate AI at every point like in that chat what that I want so suppose here also I am giving interview so in that time instead of interview what should be there in which we have hard put all the things means whenever the interview starts what both have to say and depending upon the time the interview has arranged. We will have a specific set of questions so the board will ask each and every question 1 by 1 and after that the interview will give the response. So each question proceeds by the interview response and then what suits according to the original answer to Cragability. These 3 things we store and once the interview got over we give all those details in a pdf format by comparing the knowledge of particular interview whether they are ok or they have to focus or if they have to focus then what I have worked on I have not provided them the exact point but in that question some points are mentioned please tell me sorry, please write or speak some specific points about reject not general 1. So simple comment for each question answer is present there.",
+        "startTime": 92.41,
+        "endTime": 209.35,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Ok. And apart yeah. Ok that's that's really interesting. So I would like to know more about what your interest is as to see we are in the computer science field, right? So there are hundreds and like I don't know countless options that you can pursue. So what would you say currently is your passion, not even passion, something that you want to pursue?",
+        "startTime": 210.21,
+        "endTime": 238.18,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Ok, so currently before joining this AI part and knowing what AI can do. I was generally interested in frontend with some part backend that I have worked on, but since I have joined this part means how can we do all the things that you previously do on our mind. We can do it through AI now I am passionate about how we can use AI at each and every part.",
+        "startTime": 238.965,
+        "endTime": 268.38998,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Ok. What was there in the front end that intrigued you the most that you mentioned that before doing this AI. The front end was something that you were really interested in. What was it, what was about frontend that intrigued you?",
+        "startTime": 269.41498,
+        "endTime": 286.9,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "The main part in frontend like I mentioned I have done a 6 month internship previously as an area development only. So the most important part that it's me for this frontend part is that we have to design all the things according to the user. Like in the backend there are previous thing there are certain things we will have to make it an after the front end developer will handle all those things along with that UI expert but in the front end we have to design all the things according to user and mobile designing we have to think as a user first then we should have to think as a developer first sorry developer second that is the main part that's why I like that.",
+        "startTime": 287.56,
+        "endTime": 338.17,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "See but Divyanshu I feel like you might be confusing between the front end role and the UI UX role because in any big organization that you work for, that you might work for in the future, you're going to find that the UIUX part is being done by a completely different team altogether, and you are just giving the FIgma designs. So would you still say that front end is something that would still excite you? If I just give you the FIgma designs is that this is something that you have to create and that's all your part is. Would you still be interested in that?",
+        "startTime": 339.27002,
+        "endTime": 376.605,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "No then especially I am not interested in that because whatever I have worked you know I have made the whole things that's why it interests to but as I. So you",
+        "startTime": 377.405,
+        "endTime": 389.84,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "are more interested towards you are you x part then front end then?",
+        "startTime": 389.84,
+        "endTime": 394.81998,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "No means like for thinking on our own creation that part. That is what I told you that when I come to this AI part then it interests the most because we have to serve how we can do all the things automatically. Ok. What initially we do manually. Ok. So that creativity in that part interest in the most.",
+        "startTime": 395.36,
+        "endTime": 421.94998,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Ok, so ok I want your comments on 1 simple thing. I think we just have to do this for 10 more minutes and we will have enough information then. So, what's your say or thoughts regarding AI is taking up developer's job? What do you think how close we are to it or if that's even a possibility or what's your thoughts on this 1 topic? AI taking up jobs?",
+        "startTime": 422.57,
+        "endTime": 455.24,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "It's reality that AI is taking up jobs and the most recent example that we can think of is that customer support service and the second 1 content writer and I think by almost the end of 20 30 I think there will be almost any computer sorry customer support job or help desk job and this content writer has been severely affected through your apart from that if we talk about development then this back end role will never be reflecting the AI. But AI will do whatever we are we will ask him to do it will create the basic back end and basic front end but the final touch would be given by us account thing it will take developer job but yeah the number of developer that companies are hiring will reduce up to 40 to 50 percent that's",
+        "startTime": 457.13998,
+        "endTime": 539.09,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "The thing. Yeah I feel like you are absolutely correct on this part that it might not replace the job it might expand a person's ability, right? Like let's assume you are a person you are familiar with both front end and back end.",
+        "startTime": 539.09,
+        "endTime": 555.365,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "So",
+        "startTime": 555.365,
+        "endTime": 555.52496,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "If I give you an AI as a helper then you can just do the thinking and AI can just make it, right?",
+        "startTime": 555.52496,
+        "endTime": 561.71,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Right right. You",
+        "startTime": 562.25,
+        "endTime": 563.47003,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "are getting, like, more out of you because you're not sitting and, like, have to actually have complete knowledge regarding every single topic that is out there. You can have a very nice high level overview about all the things and you can create applications.",
+        "startTime": 563.93005,
+        "endTime": 581.89496,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah and apart from that and also like whenever",
+        "startTime": 583.235,
+        "endTime": 590.81,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Yeah. Sorry, can you continue?",
+        "startTime": 591.91003,
+        "endTime": 593.61,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah means as the AI booms then the requirement for AI engineer is also increasing that will I think also create some new opportunities.",
+        "startTime": 594.63,
+        "endTime": 604.165,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Absolutely. Have you had the chance to use the new model that open AI has released? It's called 4 0 sorry oh I think it's just o.",
+        "startTime": 605.985,
+        "endTime": 616.74,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yes they have 3 current models triple GPT 4, GPT 4 0 and 4 0 mini.",
+        "startTime": 617.92,
+        "endTime": 626.9,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "No no no no, I'll tell you. They currently have I'll open and I'll show you. Tell you once. So yeah, there is currently 4 0 which is great for most tasks and there is o 1 preview and there is o 1 mini. Do you know what the difference between this o 1 and 4 0 is?",
+        "startTime": 629.89496,
+        "endTime": 651.17,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "And I have used this 4 0 and 4 0 mini.",
+        "startTime": 652.67,
+        "endTime": 656.13,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Mi. So and you know what's the difference between 4 0 and o Mini also? Like this whole generation of models that are going to come, do you know what's the difference between the models that were there before that?",
+        "startTime": 656.835,
+        "endTime": 670.055,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "That part I don't have much to read about that",
+        "startTime": 671.74005,
+        "endTime": 675.56006,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "About that I'll tell you what's the difference. Ok? So the difference between 4 0 and o many and o that o generation of models that are coming, is that they have something called reasoning tokens. Ok? So now imagine, four GPT, whenever you like, for example, if you give four GPT this thing. What do you say? Let's assume you give it like a task to do. Ok? So whenever you use 4 0, the normal 1 GPT, the moment you press enter, it starts giving you the answer, right? Is that GBD is going to, you know, think about it and it's going to check itself back. Like, I'll show you once I'll tell you 1 second. 1 of the questions that I had actually used,",
+        "startTime": 676.14,
+        "endTime": 736.64,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "I'll tell you what they use.",
+        "startTime": 737.89996,
+        "endTime": 739.42,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Are codes like? So first thing, like, I gave it some code and I told it to fix something, right? Ok? So the reasoning token that was first generated was analyzing code performance. It analyzed it and then, like, whatever the way you think, right, it replicates that and that's the main difference between the new models that are coming. So they are more accurate because they, before giving an answer they go back and check that okay, like if this user has told me this, okay, am I doing everything correctly the response at I am it rechecks itself which helps it to give better and a lot better answers I will tell you.",
+        "startTime": 739.42,
+        "endTime": 781.455,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yes.",
+        "startTime": 783.835,
+        "endTime": 784.335,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Have you ever used co pilot?",
+        "startTime": 784.875,
+        "endTime": 786.415,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah, I have used co pilot but a year ago.",
+        "startTime": 788.24,
+        "endTime": 792.5,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "How was your experience with co-pilot? Mind was horribly. In the sense at first it was great but once your project moves to a meaningful size, it just stops working. Not even though stops working at that level you can't do anything with AI. It cannot understand so much context it cannot like hallucinations happen, right?",
+        "startTime": 794.08,
+        "endTime": 819.78,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "When the",
+        "startTime": 820.88,
+        "endTime": 821.2,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Fourth plays goes meaningfully. You know what Jet Brains does? Have you ever heard of this ID called Astra?",
+        "startTime": 821.2,
+        "endTime": 832.325,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "No, I haven't heard of Astra.",
+        "startTime": 833.58496,
+        "endTime": 835.52496,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Oh, 1 second, I think Zet Brains, it's not called Astra I think. They had made another new ID altogether. Fleet, yeah. Have you ever heard of Fleet?",
+        "startTime": 836.545,
+        "endTime": 855.1,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "No.",
+        "startTime": 856.855,
+        "endTime": 857.355,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "So what does Fleet do? So the thing is that it's a very heavy ID, okay. It's a very heavy ID. On the face of it, it wouldn't look so heavy. Like, if you open Intelligi, you know it's a very heavy idea because like 10000 things are built into it, right? Everything is there. But Flett looks like normal CS code but it has an ability, it has the ability to basically index your entire code and store it into a cash. So any kind of AI related tasks that you do don't cause so much hallucinations because it has index your entire code. It takes like 2 to 3 hours to index any project that you open but once it does, it works very well.",
+        "startTime": 858.695,
+        "endTime": 909.55005,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Ok, I am watching it's speech. Yeah,",
+        "startTime": 911.435,
+        "endTime": 914.855,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Any new technology that you came across that you might want to talk about?",
+        "startTime": 915.755,
+        "endTime": 919.535,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah recently I just have to work on this. Apart from that.",
+        "startTime": 921.27496,
+        "endTime": 929.35004,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Next is good you know. It's like I feel like everyone is using their free hosting as of now because I feel like there free tear itself is so good and a lot of you know tell tell.",
+        "startTime": 929.65,
+        "endTime": 944.385,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah means the most interesting part in it is just that we can do all the stuff at a single place.",
+        "startTime": 945.325,
+        "endTime": 952.54504,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "All the stuff at a single place.",
+        "startTime": 954.33997,
+        "endTime": 956.19995,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Means back end and front end.",
+        "startTime": 956.57996,
+        "endTime": 959.22,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Oh yeah",
+        "startTime": 959.22,
+        "endTime": 959.95996,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Yeah. All other handling, cache all these things you can store in a single file. Yeah. And those things if you are not developing a very vast application. Upto middle level of application I think it works really well.",
+        "startTime": 960.66,
+        "endTime": 981.025,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Well. Yeah and the ability to do server side rendering so easily and here to render anything it's so easy, right? Yeah. But it's like very optimize also though right? But you have to be very familiar with Next Jas. Like, even if you, for example, use are using an image let's assume, okay? So you should always use it with the functions that Next Jas has given you. Like, next Jas has its own image tag. If you use it with that, your image will be the most optimized. Like, you need to know the next Jazz to get everything out of it. It's a really really nice to, you know. Have you ever used Olama?",
+        "startTime": 981.63995,
+        "endTime": 1023.41,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Olamah, No.",
+        "startTime": 1025.15,
+        "endTime": 1026.21,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Ma'am and use it, you know, you can have, you can just download it, download it. So it's an LLM, I hope you know that. Yeah. It's by meta and you can just download and run LLM in your terminal, you know, and it's like 2 click install. It's very nice. You know, I'll tell you 1 project which my friend made, okay. So, friend and me both we made, okay? So, we had 1 STS exam. He had an STS exam, okay? In that STS exam what was that like this dude is a mat coder, okay? Like he lives and breeds making programs and everything. So, he got into a this thing. He had a bet with his STS teacher that it's basically competitive coding that like I am going to get full. Ok and he made a bet he came back and he is like I don't wanna study for it. I don't want to study for this random exam, I can work on something better. So, you know what he did? I think in like 5, 6 hours, he built a complete, I don't know how to say this, a cheating tool, ok. So basically, he had found a bug in repeal with which he can host things for however long he wants. However long he wants to. Replate I think you must have used, right? It's an online ID.",
+        "startTime": 1027.045,
+        "endTime": 1113.36,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Ok? Yeah yeah.",
+        "startTime": 1113.965,
+        "endTime": 1115.165,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "So he took LamA and he hosted it over there. Ok? Then he wrote 1 portable Python program, okay? With which what it, what it does is that it takes input from your mouse and your keyboard, okay? And whenever you will press 4 slashes and type out something and then you end that with 4 slashes, that's basically that goes as a request to the LLM that is there, and once the response comes, the program takes over your keyboard and it starts writing out code for you.",
+        "startTime": 1115.165,
+        "endTime": 1151.175,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Ok.",
+        "startTime": 1152.515,
+        "endTime": 1153.015,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "And with mouse, if you and now the thing is that it's typing. Right? And if anyone comes behind you, they'll see, like, what the bro, you're not typing and yet it's typing. Right? So, he had configured in a way that on the top left of the screen if the mouse goes, the typing will stop. Top right was resumed, bottom left was cancelled and the bottom right he had just left. So like Madame Point. Math program and he finished his exam in like 10 to 15 minutes and he left and he got to full also and you know so many people in for that exam are like 1 script, okay, with which you can run in your JavaScript console. With which you can chatGPT this thing basically. It's an API end point with which you can make the call you will get the response and you can just copy the response from there. Ok. I think 15 people tried that all of them got caught but this was not you know.",
+        "startTime": 1154.85,
+        "endTime": 1224.6599,
+        "speakerType": "INTERVIEWER"
+    },
+    {
+        "speaker": "devanshu kumar",
+        "dialogue": "Why?",
+        "startTime": 1226.485,
+        "endTime": 1226.985,
+        "speakerType": "CANDIDATE"
+    },
+    {
+        "speaker": "Shubhdeep, Das",
+        "dialogue": "Hello? A request, whereas these people were making it through the was monitored. Ok. So he was not caught also, so match it match. So listen, I think 20 minutes sir you. Thank you so much for taking your time Devanshu and it was very nice talking to you. Ok thank you. Bye bye. Thank you so much.",
+        "startTime": 1233.605,
+        "endTime": 1257.943,
+        "speakerType": "INTERVIEWER"
+    }
+]
